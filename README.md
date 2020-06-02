@@ -1,18 +1,19 @@
 <h1 align="center">
     Be-Hero
 </h1>
-backend da aplicacao utilizar https://github.com/Jean1dev/nodejs-backend-generic 
-front reacjs | mobile react-native   | app para ajudar ongs
+
 
 ![](https://img.shields.io/github/issues/Jean1dev/be-hero)
 ![](https://img.shields.io/github/forks/Jean1dev/be-hero)
 ![](https://img.shields.io/github/stars/Jean1dev/be-hero)
 ![](https://img.shields.io/github/license/Jean1dev/be-hero)
 
-## :rocket: Technologies
+## :rocket: Sobre
     Be-Hero é um sistema para onde ongs cadastram casos solicitando algum tipo de ajuda para os usuarios
 
 ## :information_source: How To Use [ FRONT-END ]
+
+## backend da aplicacao utilizar https://github.com/Jean1dev/nodejs-backend-generic 
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
